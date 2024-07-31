@@ -1,14 +1,14 @@
 ## Hi there 👋
 ![MasterHead](https://leveledge.in/wp-content/uploads/2023/08/mobile-development2-2.gif)
 <h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">Native and Cross Platform Android developer( by KMP & CMP) from India</h3>
+<h3 align="center">Native and Cross Platform Mobile App developer( by KMP & CMP) from India</h3>
 <img align="right" alt="Coding" width="400" src="https://proeffico.com/wp-content/uploads/2023/10/app-development-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushkushwahaa&label=Profile%20views&color=0e75b6&style=flat" alt="piyushkushwahaa" /> </p>
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about **Native and Cross Platform Android development (by KMP & CMP)**
+- 💬 Ask me about **Native and Cross Platform Mobile App development (by KMP & CMP)**
 
 - 📫 How to reach me **infopiyush2004@gmail.com**
 
