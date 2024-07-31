@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Jetpack Compose**
 
-- 💬 Ask me about **Native and Cross Platform Android development by KMP & CMP**
+- 💬 Ask me about **Native and Cross Platform Android development (by KMP & CMP)**
 
 - 📫 How to reach me **infopiyush2004@gmail.com**
 
