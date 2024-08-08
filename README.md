@@ -15,7 +15,13 @@
 
 - ⚡ Fun fact **I Think I have to work Hard to Achieve my Goal.**
 
+---
 
+🎓Btech CSE Student @ SMVDU || Batch '2023-27'
+  
+
+
+---
 
 <h2 align="left">Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px></h2>
 
