@@ -51,6 +51,9 @@
 <a href="https://www.codechef.com/users/piyush_2004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="piyush_2004" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/infopiyush2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="infopiyush2004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyushkushwahaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushkushwahaa" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/profile/piyushkushwahaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anirudh handa" height="35" width="45" /></a>
+<a href="https://dev.to/piyushkushwahaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="piyushkushwahaa" height="35" width="45" /></a>
+<a href="https://www.facebook.com/profile.php?id=100022050002267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anirudh handa" height="35" width="45" /></a>
 </p>
 
 <h3 align="left">Support:</h3>
