@@ -41,7 +41,7 @@
 <a href="https://codeforces.com/profile/infopiyush2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="infopiyush2004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/piyushkushwahaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyushkushwahaa" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/infopiyush0"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="infopiyush0" /></a></p><br><br>
 
+[![Github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=piyushkushwahaa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
