@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **infopiyush2004@gmail.com**
 
-- ⚡ Fun fact **I Think I have to work Hard to Achieve my Goal.**
+- ⚡ Fun fact **I think I am a Late-Night Coder, Early-Bird Explorer.**
 
 ---
 
