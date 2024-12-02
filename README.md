@@ -16,11 +16,11 @@
  
 -  🔭 I’m also focused on **Data Structure & Algorithm**
   
-- 💬 Talk with me about   **Competative Programming , Mobile App development (by CMP),DSA**
+- 💬 Talk with me about   **Competative Programming,DSA , Mobile App development (by CMP)**
 
 - 📫 How to reach me **infopiyush2004@gmail.com**
 
-- ⚡ Fun fact **I think I am a Late-Night Coder, Early-Bird Explorer.**
+- ⚡ Fun fact **I think I am a Late Night Coder, Early Bird Explorer.**
 
 ---
 
