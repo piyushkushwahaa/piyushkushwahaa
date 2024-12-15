@@ -38,12 +38,12 @@
 
 <img align="center" alt="Coding" width="200%" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/download.gif?raw=true">
 
-<p><img align="left" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkushwahaa&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="piyushkushwahaa" /></p>
+<p><img align="left" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkushwahaa&show_icons=true&locale=en&layout=compact&theme=nord_bright" alt="piyushkushwahaa" /></p>
 
 
-<p>&nbsp;<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=piyushkushwahaa&show_icons=true&locale=en&theme=yeblu" alt="piyushkushwahaa" /></p>
+<p>&nbsp;<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=piyushkushwahaa&show_icons=true&locale=en&theme=nord_bright" alt="piyushkushwahaa" /></p>
 
-<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkushwahaa&theme=ocean_dark" alt="piyushkushwahaa" />
+<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkushwahaa&theme=nord_bright" alt="piyushkushwahaa" />
   <img align="center" alt="Coding" width="300" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/soft_dev.gif?raw=true">
 </p>
 
