@@ -38,30 +38,30 @@
 
 <img align="center" alt="Coding" width="200%" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/download.gif?raw=true">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkushwahaa&show_icons=true&locale=en&layout=compact" alt="piyushkushwahaa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkushwahaa&show_icons=true&locale=en&layout=compact&theme=yeblu" alt="piyushkushwahaa" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushkushwahaa&show_icons=true&locale=en" alt="piyushkushwahaa" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushkushwahaa&show_icons=true&locale=en&theme=yeblu" alt="piyushkushwahaa" /></p>
 
-<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkushwahaa&theme=aura" alt="piyushkushwahaa" />
+<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkushwahaa&theme=ocean_dark" alt="piyushkushwahaa" />
   <img align="center" alt="Coding" width="300" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/soft_dev.gif?raw=true">
 </p>
 
 
 
-<img align="center" alt="Coding" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkushwahaa&theme=aura">
+<img align="center" alt="Coding" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkushwahaa&theme=shades_of_purple">
 
 
 
 <p style="display: flex; justify-content: space-between;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkushwahaa&theme=react-dark" style="width: 61%; height: auto;" alt="Github activity graph"/>
-  <img alt="Most Commit Language" style="width: 37%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushkushwahaa&theme=aura">
+  <img alt="Most Commit Language" style="width: 37%;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushkushwahaa&theme=shades_of_purple">
 </p>
 
 
 <p style="display: flex; justify-content: space-between;">
-  <img alt="Coding" style="width: 49%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushkushwahaa&theme=aura" />
-  <img alt="Most Commit Language" style="width: 49%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkushwahaa&theme=aura">
+  <img alt="Coding" style="width: 49%;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushkushwahaa&theme=shades_of_purple" />
+  <img alt="Most Commit Language" style="width: 49%;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkushwahaa&theme=shades_of_purple">
 </p>
 
 <img align="center" alt="Coding" width="100%" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/download.gif?raw=true">
