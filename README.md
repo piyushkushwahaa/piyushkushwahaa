@@ -38,7 +38,7 @@
 
 <img align="center" alt="Coding" width="200%" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/download.gif?raw=true">
 
-<p><img align="left" width="51%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkushwahaa&show_icons=true&locale=en&layout=compact&theme=nord_bright" alt="piyushkushwahaa" /></p>
+<p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkushwahaa&show_icons=true&locale=en&layout=compact&theme=nord_bright" alt="piyushkushwahaa" /></p>
 
 
 <p>&nbsp;<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=piyushkushwahaa&show_icons=true&locale=en&theme=nord_bright" alt="piyushkushwahaa" /></p>
