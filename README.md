@@ -43,15 +43,18 @@
 
 <p>&nbsp;<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=piyushkushwahaa&show_icons=true&locale=en&theme=gruvbox" alt="piyushkushwahaa" /></p>
 
-<p><img align="center" width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkushwahaa&theme=gruvbox" alt="piyushkushwahaa" />
-  <img align="center" alt="Coding" width="300" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/soft_dev.gif?raw=true">
+<p><img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkushwahaa&theme=gruvbox" alt="piyushkushwahaa" />
+  <img align="center" alt="Coding" width="40%" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/soft_dev.gif?raw=true">
 </p>
 
 
-<p><img align="center" width="50%" src="https://leetcard.jacoblin.cool/piyushkushwahaa?theme=dark&font=Nunito&ext=heatmap" alt="piyushkushwahaa" />
-  <img align="right" alt="Coding" width="45%" src="https://codeforces-readme-stats.vercel.app/api/card?username=piyushkushwahaa&theme=radical" alt="piyushkushwahaa">
-</p>
 
+
+</p>
+<p style="display: flex; justify-content: space-between; margin: 0;">
+  <img alt="Coding" style="width: 53%; height: auto; margin: 0;" src="https://leetcard.jacoblin.cool/piyushkushwahaa?theme=dark&font=Nunito&ext=heatmap" alt="piyushkushwahaa" />
+  <img alt="Most Commit Language" style="width: 45%; height: auto; margin: 0;" src="https://codeforces-readme-stats.vercel.app/api/card?username=piyushkushwahaa&theme=radical" alt="piyushkushwahaa">
+</p>
 
 
 
