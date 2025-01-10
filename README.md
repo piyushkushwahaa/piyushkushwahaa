@@ -48,7 +48,7 @@
 </p>
 
 
-<p><img align="center" width="53%" src="https://leetcard.jacoblin.cool/piyushkushwahaa?theme=dark&font=Nunito&ext=heatmap" alt="piyushkushwahaa" />
+<p><img align="center" width="50%" src="https://leetcard.jacoblin.cool/piyushkushwahaa?theme=dark&font=Nunito&ext=heatmap" alt="piyushkushwahaa" />
   <img align="right" alt="Coding" width="45%" src="https://codeforces-readme-stats.vercel.app/api/card?username=piyushkushwahaa&theme=radical" alt="piyushkushwahaa">
 </p>
 
