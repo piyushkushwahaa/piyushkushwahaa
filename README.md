@@ -52,8 +52,8 @@
 
 </p>
 <p style="display: flex; justify-content: space-between; margin: 0;">
-  <img alt="Coding" style="width: 53%; height: auto; margin: 0;" src="https://leetcard.jacoblin.cool/piyushkushwahaa?theme=dark&font=Nunito&ext=heatmap" alt="piyushkushwahaa" />
-  <img alt="Most Commit Language" style="width: 45%; height: auto; margin: 0;" src="https://codeforces-readme-stats.vercel.app/api/card?username=piyushkushwahaa&theme=radical" alt="piyushkushwahaa">
+  <img alt="Coding" style="width: 53%; height: auto; margin: 0;" src="https://leetcard.jacoblin.cool/piyushkushwahaa?theme=unicorn&font=Nunito&ext=heatmap" alt="piyushkushwahaa" />
+  <img alt="Most Commit Language" style="width: 45%; height: auto; margin: 0;" src="https://codeforces-readme-stats.vercel.app/api/card?username=piyushkushwahaa&theme=gruvbox" alt="piyushkushwahaa">
 </p>
 
 
