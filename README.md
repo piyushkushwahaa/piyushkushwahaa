@@ -66,8 +66,8 @@
   <img align="center"  alt="Most Commit Language" style="width: 37%; height: auto; margin: 0;" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=piyushkushwahaa&theme=shades_of_purple">
 
 
-  <img align="center" alt="Coding" style="width: 49%; height: auto; margin: 0;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushkushwahaa&theme=shades_of_purple" />
-  <img align="right" alt="Most Commit Language" style="width: 49%; height: auto; margin: 0;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkushwahaa&theme=shades_of_purple">
+  <img  alt="Coding" style="width: 49%; height: auto; margin: 0;" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=piyushkushwahaa&theme=shades_of_purple" />
+  <img  alt="Most Commit Language" style="width: 49%; height: auto; margin: 0;" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=piyushkushwahaa&theme=shades_of_purple">
 
 
 
