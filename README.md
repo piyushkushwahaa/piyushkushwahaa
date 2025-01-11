@@ -59,7 +59,7 @@
 
 
 
-<img align="center" alt="Coding" width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkushwahaa&theme=shades_of_purple">
+<img align="center" alt="Coding" width="98.5%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piyushkushwahaa&theme=shades_of_purple">
 
 
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=piyushkushwahaa&theme=react-dark" style="width: 61%; height: auto; margin: 0;" alt="Github activity graph"/>
