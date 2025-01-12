@@ -40,7 +40,7 @@
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyushkushwahaa&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="piyushkushwahaa" />
 <p>&nbsp;<img align="center" width="46%" src="https://github-readme-stats.vercel.app/api?username=piyushkushwahaa&show_icons=true&locale=en&theme=gruvbox" alt="piyushkushwahaa" />
 
-<img align="center" width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushkushwahaa&theme=gruvbox" alt="piyushkushwahaa" />
+<img align="center" width="55%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=piyushkushwahaa&theme=gruvbox" alt="piyushkushwahaa" />
   <img align="center" alt="Coding" width="38%" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/soft_dev.gif?raw=true">
 
 
