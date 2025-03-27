@@ -89,7 +89,7 @@
 
 <h3 align="left">Support:</h3>
 <div align="left">
-  <a href="https://www.buymeacoffee.com/infopiyush0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" ></a>
+  <a href="https://www.buymeacoffee.com/piyushkushwahaa" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="200" ></a>
 </div>
 <img align="center" alt="Coding" width="100%" src="https://github.com/piyushkushwahaa/Github-Gif/blob/main/download.gif?raw=true">
 
